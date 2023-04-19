@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BTH2CV</string>
+    <string-array name="tinhtrang">
+        <item>Dang thuc hien</item>
+        <item>Hoan thanh</item>
+        <item>Chua thuc hien</item>
+    </string-array>
+</resources>
